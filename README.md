@@ -6,6 +6,7 @@ LeetCode75_Solution
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0215-kth-largest-element-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -23,4 +24,8 @@ LeetCode75_Solution
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
