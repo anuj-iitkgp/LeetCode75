@@ -10,6 +10,7 @@ LeetCode75_Solution
 | [0136-single-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0215-kth-largest-element-in-an-array) |
+| [0287-find-the-duplicate-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -30,6 +31,7 @@ LeetCode75_Solution
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,4 +44,9 @@ LeetCode75_Solution
 |  |
 | ------- |
 | [0136-single-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0287-find-the-duplicate-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
