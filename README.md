@@ -6,6 +6,7 @@ LeetCode75_Solution
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0162-find-peak-element) |
@@ -39,6 +40,7 @@ LeetCode75_Solution
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0073-set-matrix-zeroes) |
 ## Bit Manipulation
 |  |
@@ -53,5 +55,6 @@ LeetCode75_Solution
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0048-rotate-image) |
 | [0371-sum-of-two-integers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
