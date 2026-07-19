@@ -99,6 +99,7 @@ LeetCode75_Solution
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0144-binary-tree-preorder-traversal) |
@@ -107,6 +108,7 @@ LeetCode75_Solution
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0144-binary-tree-preorder-traversal) |
@@ -115,6 +117,7 @@ LeetCode75_Solution
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0144-binary-tree-preorder-traversal) |
@@ -129,4 +132,8 @@ LeetCode75_Solution
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
