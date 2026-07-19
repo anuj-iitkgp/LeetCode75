@@ -4,20 +4,20 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        right = 0
+        currentReach = 0
         last = len(nums) - 1
         
         for i in range(len(nums)):
             # If current index is unreachable, stop
-            if i > right:
+            if i > currentReach:
                 return False
             
             # Update the furthest reachable index
-            if i + nums[i] > right:
-                right = i + nums[i]
+            if i + nums[i] > currentReach:
+                currentReach = i + nums[i]
                 
             # If we can reach the last index, return True
-            if right >= last:
+            if currentReach >= last:
                 return True
                 
         return False
