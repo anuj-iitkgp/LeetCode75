@@ -8,6 +8,7 @@ LeetCode75_Solution
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0136-single-number) |
@@ -132,6 +133,7 @@ LeetCode75_Solution
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search Tree
@@ -142,4 +144,8 @@ LeetCode75_Solution
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
