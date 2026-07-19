@@ -5,15 +5,22 @@ class Solution(object):
         :rtype: int
         """
 
-        count = 1
-        n = len(nums)
-        if n <= 1:
-            return nums[0]
-            
-        nums.sort()
-        for i in range(n - 1):
-            if nums[i] == nums[i + 1]:
-                count += 1
-                if count > math.floor(n // 2):
-                    return nums[i]
+        # count = 1
+        # n = len(nums)
+        # if n <= 1:
+        #     return nums[0]
+
+        # nums.sort()
+        # for i in range(n - 1):
+        #     if nums[i] == nums[i + 1]:
+        #         count += 1
+        #         if count > math.floor(n // 2):
+        #             return nums[i]
         
+        n = len(nums)
+        freq = {}
+        for i in nums:
+            freq[i] = freq.get(i, 0) + 1
+            if freq[i] > n // 2:
+                return i
+
