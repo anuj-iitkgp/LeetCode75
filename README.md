@@ -99,6 +99,7 @@ LeetCode75_Solution
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0145-binary-tree-postorder-traversal) |
@@ -106,6 +107,7 @@ LeetCode75_Solution
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0145-binary-tree-postorder-traversal) |
@@ -113,6 +115,7 @@ LeetCode75_Solution
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0145-binary-tree-postorder-traversal) |
@@ -120,6 +123,7 @@ LeetCode75_Solution
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0226-invert-binary-tree) |
 ## Dynamic Programming
 |  |
