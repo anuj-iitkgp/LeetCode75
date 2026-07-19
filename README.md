@@ -10,6 +10,7 @@ LeetCode75_Solution
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0136-single-number) |
@@ -30,6 +31,7 @@ LeetCode75_Solution
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0268-missing-number) |
