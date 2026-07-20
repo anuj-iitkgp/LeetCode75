@@ -79,6 +79,7 @@ LeetCode75_Solution
 | [0136-single-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0371-sum-of-two-integers) |
 ## Two Pointers
 |  |
@@ -145,6 +146,7 @@ LeetCode75_Solution
 | [0055-jump-game](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0338-counting-bits](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0338-counting-bits) |
 ## Binary Search Tree
 |  |
 | ------- |
