@@ -48,6 +48,7 @@ LeetCode75_Solution
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2336-smallest-number-in-infinite-set](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2336-smallest-number-in-infinite-set) |
 ## Quickselect
 |  |
 | ------- |
@@ -70,6 +71,7 @@ LeetCode75_Solution
 | [0268-missing-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2336-smallest-number-in-infinite-set](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2336-smallest-number-in-infinite-set) |
 | [2784-check-if-array-is-good](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2784-check-if-array-is-good) |
 ## Matrix
 |  |
@@ -186,4 +188,12 @@ LeetCode75_Solution
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0258-add-digits) |
+## Design
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2336-smallest-number-in-infinite-set) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/anuj-iitkgp/LeetCode75/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
