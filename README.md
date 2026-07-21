@@ -98,6 +98,7 @@ LeetCode75_Solution
 | ------- |
 | [0048-rotate-image](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0371-sum-of-two-integers) |
 ## Backtracking
@@ -177,4 +178,12 @@ LeetCode75_Solution
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1791-find-center-of-star-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3898-find-the-degree-of-each-vertex) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
