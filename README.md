@@ -170,4 +170,8 @@ LeetCode75_Solution
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0169-majority-element) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
