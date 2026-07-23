@@ -174,6 +174,7 @@ LeetCode75_Solution
 | [0198-house-robber](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0338-counting-bits) |
 | [1137-n-th-tribonacci-number](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1143-longest-common-subsequence) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -217,4 +218,8 @@ LeetCode75_Solution
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/anuj-iitkgp/LeetCode75/tree/master/0062-unique-paths) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
