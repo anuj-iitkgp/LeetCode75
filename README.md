@@ -199,6 +199,7 @@ LeetCode75_Solution
 ## Graph Theory
 |  |
 | ------- |
+| [1615-maximal-network-rank](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1615-maximal-network-rank) |
 | [1791-find-center-of-star-graph](https://github.com/anuj-iitkgp/LeetCode75/tree/master/1791-find-center-of-star-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/anuj-iitkgp/LeetCode75/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
